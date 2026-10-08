@@ -1,0 +1,40 @@
+SEEYOURSELF — FOOTAGE & FONT CREDITS
+
+Live-action scenes: Tears of Steel (2012)
+(CC) Blender Foundation | mango.blender.org
+License: Creative Commons Attribution 3.0 Unported
+https://creativecommons.org/licenses/by/3.0/
+Licensing statement: https://mango.blender.org/sharing/
+Source: https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov
+
+The excerpts have been trimmed to five seconds, resized, re-encoded, muted,
+and labeled “AI-generated · SAMPLE” to demonstrate the export label.
+These are original film excerpts, NOT examples of AI face replacement.
+The original soundtrack is NOT included. Film actors do not endorse SeeYourself.
+The license does not grant trademark or personality rights.
+
+Excerpts (source start time in seconds):
+The last word — 182
+Main character energy — 319
+That plot twist — 409
+Mission ready — 126
+Not impressed — 167
+Future you — 530
+Brain is buffering — 57
+The standoff — 147
+Monday mood — 408
+Zero gravity — 211
+One more take — 200
+
+Original illustrated templates: Midnight drive, Coastal escape,
+The winning shot, Victory lap. Created for this SeeYourself implementation.
+Dedicated to the public domain under CC0 1.0:
+https://creativecommons.org/publicdomain/zero/1.0/
+These four templates use a slow animated camera move over original vector art.
+
+Font: Manrope, copyright 2018 The Manrope Project Authors.
+SIL Open Font License 1.1, included at ./fonts/OFL.txt.
+https://github.com/sharanda/manrope
+
+Icons: Lucide, ISC license. Copyright Lucide contributors.
+Full notice in the source repository's THIRD_PARTY_NOTICES.md.
